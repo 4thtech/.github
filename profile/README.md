@@ -26,11 +26,11 @@ infrastructure and usable or extendable globally.
 
 ## Interested in reading more?
 
-In-depth articles can be found on
+In-depth articles and documentation can be found on
 our [Medium page](https://medium.com/the4thpillar)
 or [wiki page](https://wiki.4thtech.io).
 
 ## Contact
 
-If you have any questions or want to be part of our community, please check out
-our [contact page](https://wiki.4thtech.io/contact.html).
+If you have any questions or want to be part of our community, please join
+our [Discord](https://discord.com/invite/yMF2pdYRbg).
