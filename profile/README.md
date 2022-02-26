@@ -4,14 +4,15 @@
 
 4thpillar Technologies or short 4thTech is the next-gen multi-blockchain
 ecosystem, platform, cryptocurrency, and a suite of decentralized applications
-that enable users to exchange metadata, data files and instant messages from
-wallet to wallet in a secure and decentralized manner.
+that enable users to send, receive private dMails or exchange E2EE on-chain messages 
+with no possibility of data mining or data tracking.
 
 With a charter to establish foundation for:
 
-- decentralized digital identity;
-- multi-chain data exchange;
-- digital data notarisation;
+- decentralized digital identity (i.e. dID);
+- multi-chain data exchange (i.e. dMail);
+- data notarisation (i.e. dNotary);
+- on-chain instant messaging (i.e. dChat)
 - decentralization of cloud storage.
 
 4thTech initiative strives to enable a self-sovereign framework of data
