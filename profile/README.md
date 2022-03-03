@@ -1,6 +1,6 @@
 # Introduction to 4thTech
 
-![4thTech logo](https://github.com/4thtech/static-assets/raw/main/image/4thtech-logo-light-761x201.png)
+![4thTech logo](https://github.com/4thtech/static-assets/raw/main/image/blocklabs-4thtech-v2.png)
 
 4thpillar Technologies or short 4thTech is the next-gen multi-blockchain
 ecosystem, platform, cryptocurrency, and a suite of decentralized applications
