@@ -12,5 +12,5 @@ or [wiki page](https://wiki.4thtech.io).
 
 ## Contact
 
-If you have any questions or want to be part of our community, please join
-our [Discord](https://discord.com/invite/yMF2pdYRbg).
+If you have any questions or want to be part of our community, please DM us on Twitter or contact us via
+[Contact Page](https://4thtech.io/contact/).
