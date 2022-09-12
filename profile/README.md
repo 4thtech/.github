@@ -2,7 +2,7 @@
 
 ![4thTech logo](https://github.com/4thtech/static-assets/raw/main/image/blocklabs-4thtech-v2.png)
 
-4thTech utilises Web3 to enable private communication with on-chain W2W E2EE dMail, dChat & data file exchange, which is curentlly non-existing in traditional Web2 applications. Behind the scenes, 4thTech enables any project to integrate the dMail & dChat layers into their platform UIs or wallets using SDK framework, while its multi-chain interoperability and deployment paves the way towards the first Web3 communication standard.
+4thTech utilises Web3 to enable secure communication with on-chain W2W E2EE dMail, dChat & data file exchange, which is curentlly non-existing in traditional Web2 applications. Behind the scenes, 4thTech enables any project to integrate the dMail & dChat layers into their platform UIs or wallets using SDK framework, while its multi-chain interoperability and deployment paves the way towards the first Web3 communication standard.
 
 ## Interested in reading more?
 
