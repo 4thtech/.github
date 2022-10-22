@@ -2,7 +2,7 @@
 
 ![4thTech logo](https://github.com/4thtech/static-assets/raw/main/image/blocklabs-4thtech-v2.png)
 
-W2W E2EE dMail, dChat & data file exchange UI dApp and a permissionless multi-chain communication standard that enables 1000s of dMail & dChat dApps Blum on Web3, via SDKs & White-labels. With it's core primitive; one email/message = one L1 transaction, 4thTech utilises L1s security with combination of encryption cocktail (i.e. AES, RSA, SHA-256, ECDH) and decentralized storage to enable immutable W2W E2EE dMail & dChat on-chain communication.
+dMail & dChat SDK framework that enables L1-secured immutable on-chain communication. Javascript EVM SDKs provide plug-and-play solutions made ready for security-enabled social scaling in the multi-chain universe.
 
 ## Interested in reading more?
 
