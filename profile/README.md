@@ -2,7 +2,7 @@
 
 ![4thTech logo](https://github.com/4thtech/static-assets/raw/main/image/blocklabs-4thtech-v2.png)
 
-dMail & dChat SDK framework that enables L1-secured immutable on-chain communication. Javascript EVM SDKs provide plug-and-play solutions made ready for security-enabled social scaling in the multi-chain universe.
+Multi-chain communication protocol standard that enables 1000s of dMail & dChat dApps to evolve on Web3, via SDKs, while its core primitive; 1 message = 1 L1 TX utilises L1s security to enable immutable E2EE W2W on-chain communication.
 
 ## Interested in reading more?
 
