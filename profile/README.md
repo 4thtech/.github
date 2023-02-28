@@ -2,12 +2,16 @@
 
 ![4thTech logo](https://github.com/4thtech/static-assets/raw/main/image/blocklabs-4thtech-v2.png)
 
-Multi-chain communication protocol standard that enables 1000s of dMail & dChat dApps to evolve on Web3, via SDKs, while its core primitive; 1 message = 1 L1 TX utilises L1s security to enable immutable E2EE W2W on-chain communication.
+Block Labs project that was built as a Web3 on-chain communication infrastructure technology proposal occupying L1, protocol, SDK and encryption layers. The project aims to:
+- enable permissionless multi-chain (i.e. 20+ L1) communication standard that enables 1000s of dMail & dChat dApps to evolve on Web3, via TypeScript SDKs & White-labels, while it's core Web3 primitive; one message = one L1 transaction utilises L1s security to enable immutable E2EE W2W on-chain communication,
+- develop the concept for on-chain communication-specific L1,
+- contribute to the next Web3 adoption wave, and
+- pioneer the future of encrypted, immutable and decentralized on-chain communication.
 
 ## Interested in reading more?
 
 In-depth articles and documentation can be found on
-our [Medium page](https://medium.com/the4thpillar)
+our [Medium page](https://medium.com/4thtech)
 or [wiki page](https://wiki.4thtech.io).
 
 ## Contact
