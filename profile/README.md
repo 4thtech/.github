@@ -45,7 +45,7 @@ A permissionless integrator licence is available via level 1 integrator [Immu3](
 
 ➡️ [SDK Wiki](https://wiki.4thtech.io/docs/sdk)
 
-4thTech dMail & dChat white-label framework enables fast and easy builds. White-label-based modern minimalistic design style emphasizes simplicity with simple intuitive but effective navigation and setup system. A simple user interface has been developed to offer a step-by-step setup enabling the best possible user experience. 
+4thTech dMail & dChat white-label framework enables fast and easy builds. White-label-based modern minimalistic design style emphasizes simplicity with simple intuitive but effective navigation and setup system. A simple user interface has been developed to offer a step-by-step setup enabling the best possible user experience.
 
 ➡️ [White-label Repo](https://github.com/4thtech/white-label-client)
 
