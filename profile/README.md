@@ -7,6 +7,16 @@
 - contribute to the next Web3 adoption wave, and
 - pioneer the future of encrypted, non-custodial and decentralized on-chain communication.
 
+## Core Primitives
+
+While various use cases are possible, let's use dMail and dChat as examples. The dChat W2W message exchange happens on-chain as one short message represents one L1 or L2 blockchain transaction. As dMail is data heavier, lite encrypted JSON objects are created to hold dMail metadata. The link to this metadata and checksum is recorded on the chain as a blockchain transaction. The same goes for W2W data file transfers where; 1 data file package transfer = 1 L1/L2-TX. So again, the core primitive described by the formula below applies. 
+
+💡1 email/message/data-exch = 1 L1/L2-TX
+
+Every wallet becomes an on-chain identity, and the message or data vault can be accessible (i.e. decrypted) only with users' private keys! There are three encryption options available within the protocol; (1) custom encryption; (2) AES-randomly generated secret key (i.e. Advanced Encryption Standard), and; (3) AES secret key produced by ECDH (i.e. Elliptic-Curve Diffie-Hellman). 
+
+💡not your keys = not your email/message/data
+
 ## Interested in reading more?
 
 In-depth articles and documentation can be found on
