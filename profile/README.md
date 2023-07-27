@@ -37,8 +37,9 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 4thTech SDK provides abstractions to assist you with interacting with the v1 Protocol smart contracts in a Typescript/Javascript environment. With the SDK, you can manipulate data that has been queried from the EVM using libraries that assist with needs such as data modelling, protection from rounding errors, and compiling time-enforced typing.
 
-➡️ ![SDK Repo](https://github.com/4thtech/4thtech-sdk-js)
-➡️ ![SDK Wiki](https://wiki.4thtech.io/docs/sdk)
+➡️ [SDK Repo](https://github.com/4thtech/4thtech-sdk-js)
+
+➡️ [SDK Wiki](https://wiki.4thtech.io/docs/sdk)
 
 ## Interested in reading more?
 
