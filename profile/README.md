@@ -1,6 +1,6 @@
 # Introduction to 4thTech
 
-![4thTech logo](https://github.com/4thtech/static-assets/raw/main/image/blocklabs-4thtech-v2.png)
+![4thTech logo](https://github.com/4thtech/static-assets/blob/91e1e2f69b50cda946fdbff4f28154fadb38defa/image/4thtech-ecosystem.svg)
 
 Block Labs project that was built as a Web3 on-chain communication infrastructure technology proposal occupying L1, protocol, SDK and encryption layers. The project aims to:
 - enable permissionless multi-chain (i.e. 20+ L1) communication standard that enables 1000s of dMail & dChat dApps to evolve on Web3, via TypeScript SDKs & White-labels, while it's core Web3 primitive; one message = one L1 transaction utilises L1s security to enable immutable E2EE W2W on-chain communication,
