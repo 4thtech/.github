@@ -26,8 +26,7 @@ Zooming out, the architecture is quite straightforward. As shown in the Infrastr
 ## Interested in reading more?
 
 In-depth articles and documentation can be found on
-our [Medium page](https://medium.com/4thtech)
-or [wiki page](https://wiki.4thtech.io).
+our [wiki page](https://wiki.4thtech.io).
 
 ## Contact
 
