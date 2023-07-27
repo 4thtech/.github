@@ -23,6 +23,16 @@ Zooming out, the architecture is quite straightforward. As shown in the Infrastr
 
 ![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/717eddd5a6ef66fd2fa757f13f7f35a00b15afc3/image/infrastructural-layer-schematic-4thtech.svg)
 
+## Encryption
+
+Encryption is one of the key parts of the infrastructure. There are three options available: 
+
+- custom encryption,
+- AES-randomly generated secret key,
+- AES-SK produced by ECDH.
+
+![Encryption](https://github.com/4thtech/static-assets/blob/00c201b0cbf84c893794bf98f1bb152fe4acccbd/image/encryption-processes.svg)
+
 ## Interested in reading more?
 
 In-depth articles and documentation can be found on
