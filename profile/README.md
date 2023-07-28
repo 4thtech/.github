@@ -31,7 +31,7 @@ Encryption is one of the key parts of the infrastructure. There are three option
 - AES-randomly generated secret key,
 - AES-SK produced by ECDH [[Encrypotor Extension](https://github.com/4thtech/encryptor-extension)] 
 
-![Encryption](https://github.com/4thtech/static-assets/blob/ac65d351063ad8397d977c5328369acdb3ba15af/image/4thTech-encryption.svg)
+![Encryption](https://github.com/4thtech/static-assets/blob/6406e4801581652614e4e9ea8924ddea4d5faca2/image/4thTech-encryption.svg)
 
 ## Onboard
 
