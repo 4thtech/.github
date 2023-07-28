@@ -1,4 +1,4 @@
-# Introduction to 4thTech
+# Introduction
 
 ![4thTech logo](https://github.com/4thtech/static-assets/blob/d30afd40f39a20b21de01d569aba288f56e64cb4/image/4thtech-ecosystem.svg)
 
