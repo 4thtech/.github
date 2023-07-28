@@ -19,7 +19,7 @@ Every wallet becomes an on-chain identity, and the message or data vault can be 
 
 ## Infrastructure by Layers
 
-Zooming out, the architecture is quite straightforward. As shown in the Infrastructural layer stack schematic, there are UI clients built on top of the SDK v.1, powered by Protocol v.1, encryption, storage and blockchain networks. To be able to establish Web3's first communication standard, the protocol will need to be available for many L1s and L2s, which is a matter of the Level 1 integrator. To support enterprise and mobile on-chain communication, the deployment of application-specific L1 would be needed in the future. 
+Zooming out, the architecture is quite straightforward. As shown in the Infrastructural layer stack schematic, there are UI clients built on top of the [SDK v.1](https://github.com/4thtech/4thtech-sdk-js), powered by [Protocol v.1](https://github.com/4thtech/smart-contracts), encryption, storage and blockchain networks. To be able to establish Web3's first communication standard, the protocol will need to be available for many L1s and L2s, which is a matter of the Level 1 integrator. To support enterprise and mobile on-chain communication at scale, the deployment of communication-specific blockchain would be needed in the future.
 
 ![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/d166e3a2054f20d70213ef391adfd427dd9c8226/image/infrastructural-layer-schematic-4thtech.svg)
 
@@ -29,7 +29,7 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 - custom encryption,
 - AES-randomly generated secret key,
-- AES-SK produced by ECDH [[Encrypotor Extension](https://github.com/4thtech/encryptor-extension)] 
+- AES-SK produced by ECDH [[Encryptor Extension](https://github.com/4thtech/encryptor-extension)] 
 
 ![Encryption](https://github.com/4thtech/static-assets/blob/6406e4801581652614e4e9ea8924ddea4d5faca2/image/4thTech-encryption.svg)
 
