@@ -21,7 +21,7 @@ Every wallet becomes an on-chain identity, and the message or data vault can be 
 
 Zooming out, the architecture is quite straightforward. As shown in the Infrastructural layer stack schematic, there are UI clients built on top of the SDK v.1, powered by Protocol v.1, encryption, storage and blockchain networks. To be able to establish Web3's first communication standard, the protocol will need to be available for many L1s and L2s, which is a matter of the Level 1 integrator. To support enterprise and mobile on-chain communication, the deployment of application-specific L1 would be needed in the future. 
 
-![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/626928d361f0985085d724ed5ccc62f2a93dd504/image/infrastructural-layer-schematic-4thtech.svg)
+![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/d166e3a2054f20d70213ef391adfd427dd9c8226/image/infrastructural-layer-schematic-4thtech.svg)
 
 ## Encryption
 
