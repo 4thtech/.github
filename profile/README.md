@@ -33,7 +33,7 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 
 
-![Encryption](https://github.com/4thtech/static-assets/blob/00c201b0cbf84c893794bf98f1bb152fe4acccbd/image/encryption-processes.svg)
+![Encryption](https://github.com/4thtech/static-assets/blob/2fe25a4e1056a2e7ee3b675e73215d79745baf50/image/4thTech-encryption.svg)
 
 ## Onboard
 
