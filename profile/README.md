@@ -33,7 +33,7 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 ![Encryption](https://github.com/4thtech/static-assets/blob/6406e4801581652614e4e9ea8924ddea4d5faca2/image/4thTech-encryption.svg)
 
-## Onboard
+## Start Building
 
 A permissionless Level 2 integrator licence is available via Level 1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise Level 1 integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
 
