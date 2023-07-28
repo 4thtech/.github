@@ -2,7 +2,7 @@
 
 ![4thTech logo](https://github.com/4thtech/static-assets/blob/d30afd40f39a20b21de01d569aba288f56e64cb4/image/4thtech-ecosystem.svg)
 
-4thTech is a Block Labs project built as a Web3 infrastructure technology occupying the protocol, encryption, SDK and White-label client layers. The project aims to:
+4thTech is a Block Labs project built as a Web3 infrastructure technology occupying the protocol, encryption, SDK and client White-label layers. The project aims to:
 - empower permissionless communication that can enable 1000s of communication dApps to evolve on Web3, via SDKs & White-labels, while it's core Web3 primitive; 1 email/message/data-exch = 1 L1/L2 transaction utilises blockchain security to enable immutable and non-custodial E2EE W2W on-chain communication,
 - pioneer the future of encrypted, non-custodial and decentralized on-chain communication, and
 - contribute to the next Web3 adoption wave.
@@ -19,7 +19,7 @@ Every wallet becomes an on-chain identity, and the message or data vault can be 
 
 ## Infrastructure by Layers
 
-Zooming out, the architecture is quite straightforward. As shown in the Infrastructural layer stack schematic, there are UI clients built on top of the SDK, powered by protocols, encryption, storage and blockchain networks. To be able to establish Web3's first communication standard, the protocol will need to be available for many L1s and L2s, which is a matter of the level 1 integrator. To support enterprise and mobile on-chain communication, the deployment of application-specific L1 would be needed in the future. 
+Zooming out, the architecture is quite straightforward. As shown in the Infrastructural layer stack schematic, there are UI clients built on top of the SDK v.1, powered by Protocol v.1, encryption, storage and blockchain networks. To be able to establish Web3's first communication standard, the protocol will need to be available for many L1s and L2s, which is a matter of the Level 1 integrator. To support enterprise and mobile on-chain communication, the deployment of application-specific L1 would be needed in the future. 
 
 ![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/626928d361f0985085d724ed5ccc62f2a93dd504/image/infrastructural-layer-schematic-4thtech.svg)
 
@@ -29,27 +29,25 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 - custom encryption,
 - AES-randomly generated secret key,
-- AES-SK produced by ECDH.
-
-
+- AES-SK produced by ECDH [[Encrypotor Extension](https://github.com/4thtech/encryptor-extension)] 
 
 ![Encryption](https://github.com/4thtech/static-assets/blob/2fe25a4e1056a2e7ee3b675e73215d79745baf50/image/4thTech-encryption.svg)
 
 ## Onboard
 
-A permissionless integrator licence is available via level 1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
+A permissionless Level 2 integrator licence is available via Level 1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise Level 1 integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
 
 4thTech SDK provides abstractions to assist you with interacting with the v1 Protocol smart contracts in a Typescript/Javascript environment. With the SDK, you can manipulate data that has been queried from the EVM using libraries that assist with needs such as data modelling, protection from rounding errors, and compiling time-enforced typing.
 
-➡️ [SDK Repo](https://github.com/4thtech/4thtech-sdk-js)
+🔥 [SDK Repo](https://github.com/4thtech/4thtech-sdk-js)
 
-➡️ [SDK Wiki](https://wiki.4thtech.io/docs/sdk)
+🔥 [SDK Wiki](https://wiki.4thtech.io/docs/sdk)
 
 4thTech dMail & dChat white-label framework enables fast and easy builds. White-label-based modern minimalistic design style emphasizes simplicity with simple intuitive but effective navigation and setup system. A simple user interface has been developed to offer a step-by-step setup enabling the best possible user experience.
 
-➡️ [White-label Repo](https://github.com/4thtech/white-label-client)
+🔥 [White-label Repo](https://github.com/4thtech/white-label-client)
 
-➡️ [White-label Wiki](https://wiki.4thtech.io/docs/white-label)
+🔥 [White-label Wiki](https://wiki.4thtech.io/docs/white-label)
 
 ## Interested in reading more?
 
