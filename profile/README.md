@@ -23,14 +23,6 @@ Zooming out, the architecture is quite straightforward. As shown in the Infrastr
 
 ![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/d166e3a2054f20d70213ef391adfd427dd9c8226/image/infrastructural-layer-schematic-4thtech.svg)
 
-## Integrator economics
-
-Level 1 integrators can set the desired protocol **BASE-FEEs**, while Level 2 integrators can set their protocol **DAPP OWNER-FEEs**.
-
-💡Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features.
-
-![Protocol FEE schematic](https://github.com/4thtech/static-assets/blob/42cac1093f758807aefc0ded7ee37aae114b10c5/image/4thTech-protocol-fees-schematic.svg)
-
 ## Encryption
 
 Encryption is one of the key parts of the infrastructure. There are three options available: 
@@ -40,6 +32,14 @@ Encryption is one of the key parts of the infrastructure. There are three option
 - AES-SK produced by ECDH [[Encryptor Extension](https://github.com/4thtech/encryptor-extension)] 
 
 ![Encryption](https://github.com/4thtech/static-assets/blob/6406e4801581652614e4e9ea8924ddea4d5faca2/image/4thTech-encryption.svg)
+
+## Integrator economics
+
+Level 1 integrators can set the desired protocol **BASE-FEEs**, while Level 2 integrators can set their protocol **DAPP OWNER-FEEs**.
+
+💡Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features.
+
+![Protocol FEE schematic](https://github.com/4thtech/static-assets/blob/42cac1093f758807aefc0ded7ee37aae114b10c5/image/4thTech-protocol-fees-schematic.svg)
 
 ## Start Building
 
