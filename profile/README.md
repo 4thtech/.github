@@ -35,9 +35,9 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 ## Integrator economics
 
-Level 1 integrators can set the desired protocol **BASE-FEEs**, while Level 2 integrators can set their protocol **DAPP OWNER-FEEs**.
+Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features.
 
-💡**Protocol v.1 build-in monetisation layers** enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features.
+💡Level 1 integrators can set the desired protocol **BASE-FEEs**, while Level 2 integrators can set their protocol **DAPP OWNER-FEEs**.
 
 ![Protocol FEE schematic](https://github.com/4thtech/static-assets/blob/42cac1093f758807aefc0ded7ee37aae114b10c5/image/4thTech-protocol-fees-schematic.svg)
 
