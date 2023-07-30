@@ -33,7 +33,7 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 ![Encryption](https://github.com/4thtech/static-assets/blob/6406e4801581652614e4e9ea8924ddea4d5faca2/image/4thTech-encryption.svg)
 
-## Protocol FEEs & integrator economics
+## Protocol FEEs & Integrator Economics
 
 Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features.
 
