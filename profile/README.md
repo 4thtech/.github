@@ -29,7 +29,7 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 - custom encryption,
 - AES-randomly generated secret key,
-- AES-SK produced by ECDH [[Encryptor Extension](https://github.com/4thtech/encryptor-extension)] 
+- AES-secret key produced by ECDH [[Encryptor Extension](https://github.com/4thtech/encryptor-extension)] 
 
 ![Encryption](https://github.com/4thtech/static-assets/blob/6406e4801581652614e4e9ea8924ddea4d5faca2/image/4thTech-encryption.svg)
 
