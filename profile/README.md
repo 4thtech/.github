@@ -43,7 +43,7 @@ Protocol v.1 build-in monetisation layers enables independent out-of-the-box int
 
 ## Start Building
 
-A permissionless Level 2 integrator licence is available via Level 1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise Level 1 integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
+A permissionless Level-2 integrator licence is available via Level-1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise Level-1 integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
 
 💡**4thTech SDK** provides abstractions to assist you with interacting with the v1 Protocol smart contracts in a Typescript/Javascript environment. With the SDK, you can manipulate data that has been queried from the EVM using libraries that assist with needs such as data modelling, protection from rounding errors, and compiling time-enforced typing.
 
