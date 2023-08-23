@@ -9,7 +9,7 @@
 
 ## Core Primitives
 
-While various use cases are possible, let's use dMail and dChat as examples. The dChat W2W message exchange happens on-chain as one short message represents one L1 or L2 blockchain transaction. As dMail is data heavier, lite encrypted JSON objects are created to hold dMail metadata. The link to this metadata and checksum is recorded on the chain as a blockchain transaction. The same goes for W2W data file transfers where; 1 data file package transfer = 1 L1/L2-TX. So again, the core primitive described by the formula below applies; 
+While various integration use cases are possible, let's use decentralized email (i.e. dMail) and messaging (i.e. dChat) as examples. Encrypted W2W message exchange happens "on-chain" as one short message represents one L1 or L2 blockchain transaction. As dMail is data heavier, lite encrypted JSON objects are created to hold dMail metadata. The link to this metadata and checksum is recorded on the chain as a blockchain transaction. The same goes for the W2W data file transfers use case where; 1 data file package transfer = 1 L1/L2-TX. So again, the core primitive described by the formula below applies.
 
 💡1 email/message/data-exch = 1 L1/L2-TX
 
@@ -35,7 +35,7 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 ## Protocol FEEs & Integrator Economics
 
-Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features.
+Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features. 
 
 💡Level-1 integrators can set the desired protocol **BASE-FEEs**, while Level-2 integrators can set their protocol **DAPP OWNER-FEEs**.
 
