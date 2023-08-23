@@ -1,6 +1,6 @@
 # Introduction
 
-![4thTech logo](https://github.com/4thtech/static-assets/blob/d30afd40f39a20b21de01d569aba288f56e64cb4/image/4thtech-ecosystem.svg)
+![4thTech logo](https://github.com/4thtech/static-assets/blob/72e9c8db2a8bfb350cfe814879e2d202a6f42b80/image/4thtech-ecosystem.svg)
 
 4thTech is a Block Labs project built as a Web3 infrastructure technology occupying the protocol, encryption, SDK and client White-label layers. The project aims to:
 - empower permissionless communication that can enable 1000s of communication dApps to evolve on Web3, via SDKs & White-labels, while it's core Web3 primitive; 1 email/message/data-exch = 1 L1/L2 transaction utilises blockchain security to enable immutable and non-custodial E2EE W2W on-chain communication,
