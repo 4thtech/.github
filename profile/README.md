@@ -19,7 +19,7 @@ Every wallet becomes an on-chain identity, and the message or data vault can be 
 
 ## Architecture by Layers
 
-Zooming out, the architecture is quite straightforward. As shown in the Infrastructural layer stack schematic, there are [UI White-label](https://github.com/4thtech/white-label-client) clients built on top of the [SDK v.1](https://github.com/4thtech/sdk-js), powered by [Protocol v.1](https://github.com/4thtech/smart-contracts), encryption, storage and blockchain networks. To be able to establish Web3's first communication standard, the protocol will need to be available for many L1s and L2s, which is a matter of the Level 1 integrator. To support enterprise and mobile on-chain communication at scale, the deployment of communication-specific blockchain would be needed in the future.
+Zooming out, the architecture is quite straightforward. As shown in the Infrastructural layer stack schematic, there are [UI White-label](https://github.com/4thtech/white-label-client) clients built on top of the [SDK v.1](https://github.com/4thtech/sdk-js), powered by [OCC Protocol v.1](https://github.com/4thtech/smart-contracts), encryption, storage and blockchain networks. To be able to establish Web3's first communication standard, the protocol will need to be available for many L1s and L2s, which is a matter of the Level 1 integrator. To support enterprise and mobile on-chain communication at scale, the deployment of communication-specific blockchain would be needed in the future.
 
 ![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/047fb0dfe2aaf4b3fbfbc826887c01ff569287a0/image/infrastructural-layer-schematic-4thtech.svg)
 
@@ -33,9 +33,9 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 ![Encryption](https://github.com/4thtech/static-assets/blob/6406e4801581652614e4e9ea8924ddea4d5faca2/image/4thTech-encryption.svg)
 
-## Protocol FEEs & Integrator Economics
+## OCC Protocol FEEs & Integrator Economics
 
-Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features. 
+OCC Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features. 
 
 💡Level-1 integrators can set the desired protocol **BASE-FEEs**, while Level-2 integrators can set their protocol **DAPP OWNER-FEEs**.
 
