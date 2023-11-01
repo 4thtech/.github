@@ -21,7 +21,7 @@ Every wallet becomes an on-chain identity, and the message or data vault can be 
 
 Zooming out, the architecture is quite straightforward. As shown in the Infrastructural layer stack schematic, there are [UI White-label](https://github.com/4thtech/white-label-client) clients built on top of the [SDK v.1](https://github.com/4thtech/sdk-js), powered by [OCC Protocol v.1](https://github.com/4thtech/smart-contracts), encryption, storage and blockchain networks. To be able to establish Web3's first communication standard, the protocol will need to be available for many L1s and L2s, which is a matter of the Level 1 integrator. To support enterprise and mobile on-chain communication at scale, the deployment of communication-specific blockchain would be needed in the future.
 
-![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/047fb0dfe2aaf4b3fbfbc826887c01ff569287a0/image/infrastructural-layer-schematic-4thtech.svg)
+![Infrastructure by Layers](https://github.com/4thtech/static-assets/blob/99392fd14857495c5d505d72354b28e6f71cfc23/image/infrastructural-layer-schematic-4thtech-v4.svg)
 
 ## Encryption
 
