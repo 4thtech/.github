@@ -51,8 +51,8 @@ A permissionless Level-2 integrator licence is available via Level-1 integrator 
 
  ****            | **Repo** | **Wiki** |
 :---------------:|:--------:|:--------:|
- **SDK v.1**     |     [Link](https://github.com/4thtech/sdk-js)     |     [Link](https://wiki.4thtech.io/docs/sdk)     |     
- **White-label** |      [Link](https://github.com/4thtech/white-label-client)    |     [Link](https://wiki.4thtech.io/docs/white-label)     |
+ **SDK v.1**     |     [Link](https://github.com/4thtech/sdk-js)     |     [Link](https://wiki.4thtech.io/docs/integration/sdk)     |     
+ **White-label** |      [Link](https://github.com/4thtech/white-label-client)    |     [Link](https://wiki.4thtech.io/docs/integration/white-label)     |
 
 ## Interested in reading more?
 
