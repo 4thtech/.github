@@ -2,20 +2,20 @@
 
 ![4thTech logo](https://github.com/4thtech/static-assets/blob/72e9c8db2a8bfb350cfe814879e2d202a6f42b80/image/4thtech-ecosystem.svg)
 
-4thTech is a Block Labs project built as a Web3 infrastructure technology occupying the protocol, encryption, SDK and client White-label layers. The project aims to:
-- empower permissionless communication that can enable 1000s of communication dApps to evolve on Web3, via SDKs & White-labels, while it's core Web3 primitive; 1 email/message/data-exch = 1 L1/L2 transaction utilises blockchain security to enable immutable and non-custodial E2EE W2W on-chain communication,
+4thTech is a Block Labs project built as a Web3 infrastructure technology framework occupying the protocol, encryption, SDK and client White-label layers. The project aims to:
+- empower permissionless communication that can enable 1000s of communication dApps to evolve on Web3, via SDKs & White-labels, while it's core Web3 primitive; 1 blockchain email/message/data-exch = 1 L1/L2 transaction utilises blockchain security to enable immutable and self-custodial E2EE W2W on-chain communication,
 - pioneer the future of encrypted, non-custodial and decentralized on-chain communication, and
 - contribute to the next Web3 adoption wave.
 
 ## Core Primitives
 
-While various integration use cases are possible, let's use decentralized email (i.e. dMail) and messaging (i.e. dChat) as examples. Encrypted W2W message exchange happens "on-chain" as one short message represents one L1 or L2 blockchain transaction. As dMail is data heavier, lite encrypted JSON objects are created to hold dMail metadata. The link to this metadata and checksum is recorded on the chain as a blockchain transaction. The same goes for the W2W data file transfers use case where; 1 data file package transfer = 1 L1/L2-TX. So again, the core primitive described by the formula below applies.
+While various integration use cases are possible, let's use blockchain mail (i.e. BlockMail) and messaging (i.e. BlockChat) as examples. Encrypted W2W message exchange happens "on-chain" as one short message represents one L1 or L2 blockchain transaction. As BlockMail is data heavier, lite encrypted JSON objects are created to hold Mail metadata. The link to this metadata and checksum is recorded on the chain as a blockchain transaction. The same goes for the W2W data file transfers use case where; 1 data file package transfer = 1 L1/L2-TX. So again, the core primitive described by the formula below applies.
 
-💡1 email/message/data-exch = 1 L1/L2-TX
+💡1 blockchain mail/message/data-exch = 1 L1/L2-TX
 
 Every wallet becomes an on-chain identity, and the message or data vault can be accessible (i.e. decrypted) only with users' private keys! There are three encryption options available within the protocol; (1) custom encryption; (2) AES-randomly generated secret key (i.e. Advanced Encryption Standard), and; (3) AES secret key produced by ECDH (i.e. Elliptic-Curve Diffie-Hellman); 
 
-💡not your keys = not your email/message/data
+💡not your keys = not your  blockchain mail/message/data
 
 ## Architecture by Layers
 
@@ -35,7 +35,7 @@ Encryption is one of the key parts of the infrastructure. There are three option
 
 ## OCC Protocol FEEs & Integrator Economics
 
-OCC Protocol v.1 build-in monetisation layers enables independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features. 
+OCC Protocol v.1 build-in monetisation layers enable independent out-of-the-box integrator economics, permitting developers to focus on application UI/UX features. 
 
 💡Level-1 integrators can set the desired protocol **BASE-FEEs**, while Level-2 integrators can set their protocol **DAPP OWNER-FEEs**.
 
@@ -43,7 +43,7 @@ OCC Protocol v.1 build-in monetisation layers enables independent out-of-the-box
 
 ## Start Building
 
-A permissionless Level-2 integrator licence is available via Level-1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise Level-1 integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
+A permissionless Level-2 integrator licence is available via Level-1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their on-chain communication dApps. Enterprise Level-1 integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
 
 💡**4thTech SDK** provides abstractions to assist you with interacting with the v1 Protocol smart contracts in a Typescript/Javascript environment. With the SDK, you can manipulate data that has been queried from the EVM using libraries that assist with needs such as data modelling, protection from rounding errors, and compiling time-enforced typing.
 
