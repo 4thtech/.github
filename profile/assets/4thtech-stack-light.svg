@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" role="img" aria-labelledby="t d">
+<title id="t">The 4thTech stack</title>
+<desc id="d">Two tiers. Production-ready: white-label UIs for mail, chat and file transfer and the Encryptor extension, on the 4thTech SDK, on the OCC v1 smart contracts, on any EVM chain with PollinationX storage. Early stage: the AgentLink apps and MCP server for AI apps, on the AgentLink libraries, on the OCC v2 protocol, over free public relays, an encrypted drop and test networks for proof. Research and experiments sit on top of both.</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="960" height="520" rx="12" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<rect x="24" y="18" width="912" height="46" rx="10" fill="#EFEDFF" stroke="#5B4BD6" stroke-width="1"/>
+<text x="44" y="46" fill="#5B4BD6" font-size="14" font-weight="700" text-anchor="start">Research and experiments</text>
+<text x="232" y="46" fill="#0E1013" font-size="13" font-weight="400" text-anchor="start">What we learn decides what we build next: protocols, SDKs, apps and solutions.</text>
+<rect x="24" y="80" width="444" height="420" rx="12" fill="#F5F6F7" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="40" y="94" width="154.4" height="22" rx="11" fill="#E6FAF4" stroke="#0A8F6A" stroke-width="1"/>
+<text x="50" y="109" fill="#0A8F6A" font-size="11.5" font-weight="700" text-anchor="start">PRODUCTION-READY</text>
+<text x="206.4" y="110" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">OCC v1 · on-chain mail, chat and file transfer</text>
+<rect x="492" y="80" width="444" height="420" rx="12" fill="#F5F6F7" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="508" y="94" width="112.4" height="22" rx="11" fill="#FFF1E8" stroke="#C2410C" stroke-width="1"/>
+<text x="518" y="109" fill="#C2410C" font-size="11.5" font-weight="700" text-anchor="start">EARLY STAGE</text>
+<text x="632.4" y="110" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">AgentLink on OCC v2 · early builds, test networks</text>
+<rect x="40" y="128" width="201" height="92" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="40" y="136" width="3" height="76" rx="1.5" fill="#0A8F6A"/>
+<text x="54" y="150" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">White-label UIs</text>
+<text x="54" y="168" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">BlockMail · BlockChat</text>
+<text x="54" y="184" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">mail, chat, attachments</text>
+<text x="54" y="200" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">fork, brand, deploy</text>
+<rect x="251" y="128" width="201" height="92" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="251" y="136" width="3" height="76" rx="1.5" fill="#0A8F6A"/>
+<text x="265" y="150" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">Encryptor</text>
+<text x="265" y="168" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">browser extension</text>
+<text x="265" y="184" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">holds your encryption key</text>
+<text x="265" y="200" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">end-to-end encryption</text>
+<rect x="40" y="232" width="412" height="58" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="40" y="240" width="3" height="42" rx="1.5" fill="#0A8F6A"/>
+<text x="54" y="254" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">4thTech SDK</text>
+<text x="54" y="272" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">TypeScript · @4thtech-sdk/* · mail, chat, encryption, storage</text>
+<rect x="40" y="302" width="412" height="58" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="40" y="310" width="3" height="42" rx="1.5" fill="#0A8F6A"/>
+<text x="54" y="324" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">OCC v1 protocol</text>
+<text x="54" y="342" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">smart contracts: Mail · Chat · User · AppFeeManager</text>
+<rect x="40" y="372" width="201" height="112" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="40" y="380" width="3" height="96" rx="1.5" fill="#0A8F6A"/>
+<text x="54" y="394" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">Any EVM chain</text>
+<text x="54" y="412" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">Gnosis, Polygon, Sonic,</text>
+<text x="54" y="428" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">Oasis Sapphire and more</text>
+<text x="54" y="444" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">each exchange recorded</text>
+<text x="54" y="460" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">on chain</text>
+<rect x="251" y="372" width="201" height="112" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="251" y="380" width="3" height="96" rx="1.5" fill="#0A8F6A"/>
+<text x="265" y="394" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">PollinationX</text>
+<text x="265" y="412" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">partner storage</text>
+<text x="265" y="428" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">on BTFS, storage NFTs</text>
+<text x="265" y="444" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">holds encrypted mail</text>
+<text x="265" y="460" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">and attachments</text>
+<rect x="508" y="128" width="201" height="92" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="508" y="136" width="3" height="76" rx="1.5" fill="#C2410C"/>
+<text x="522" y="150" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">AgentLink apps</text>
+<text x="522" y="168" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">Mac and Windows apps</text>
+<text x="522" y="184" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">browser app · CLI</text>
+<text x="522" y="200" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">MCP server</text>
+<rect x="719" y="128" width="201" height="92" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="719" y="136" width="3" height="76" rx="1.5" fill="#C2410C"/>
+<text x="733" y="150" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">Your AI apps</text>
+<text x="733" y="168" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">Claude, Codex, Gemini,</text>
+<text x="733" y="184" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">Cursor, Windsurf …</text>
+<text x="733" y="200" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">connect over MCP</text>
+<rect x="508" y="232" width="412" height="58" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="508" y="240" width="3" height="42" rx="1.5" fill="#C2410C"/>
+<text x="522" y="254" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">AgentLink libraries</text>
+<text x="522" y="272" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">TypeScript · @4thtech-io/* · in development</text>
+<rect x="508" y="302" width="412" height="58" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="508" y="310" width="3" height="42" rx="1.5" fill="#C2410C"/>
+<text x="522" y="324" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">OCC v2 protocol</text>
+<text x="522" y="342" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">agent-to-agent: encrypted envelopes, IDs, terms, proof records</text>
+<rect x="508" y="372" width="201" height="112" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="508" y="380" width="3" height="96" rx="1.5" fill="#C2410C"/>
+<text x="522" y="394" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">Free public relays</text>
+<text x="522" y="412" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">messages travel</text>
+<text x="522" y="428" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">end-to-end encrypted</text>
+<text x="522" y="444" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">files via an encrypted</text>
+<text x="522" y="460" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">drop (ciphertext only)</text>
+<rect x="719" y="372" width="201" height="112" rx="8" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+<rect x="719" y="380" width="3" height="96" rx="1.5" fill="#C2410C"/>
+<text x="733" y="394" fill="#0E1013" font-size="13.5" font-weight="600" text-anchor="start">Proof on chain</text>
+<text x="733" y="412" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">optional, small fee</text>
+<text x="733" y="428" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">OCC v2 contracts on</text>
+<text x="733" y="444" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">test networks today</text>
+<text x="733" y="460" fill="#57606A" font-size="12" font-weight="400" text-anchor="start">(pre-audit)</text>
+<line x1="452" y1="331" x2="508" y2="331" stroke="#57606A" stroke-width="1.5" stroke-dasharray="4 4"/>
+<path d="M500 326 L508 331 L500 336" fill="none" stroke="#57606A" stroke-width="1.5"/>
+<text x="480" y="322" fill="#57606A" font-size="10.5" font-weight="400" text-anchor="middle">ideas</text>
+</g></svg>
