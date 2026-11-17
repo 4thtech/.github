@@ -38,7 +38,7 @@ An EVM stack: it runs on any Ethereum Virtual Machine chain.
 | **White-label UIs (BlockMail & BlockChat)** | Ready-made mail and chat web apps, with attachments, that you can use, fork, brand and deploy | Production-ready, stable | [Wiki](https://wiki.4thtech.io/products/white-label) · [Repo](https://github.com/4thtech/white-label-client) |
 | **Encryptor** | A browser extension that holds a user's encryption key so web apps can encrypt end to end | Production-ready, stable | [Wiki](https://wiki.4thtech.io/products/encryptor) · [Repo](https://github.com/4thtech/encryptor-extension) |
 | **PollinationX** (partner network) | A partner storage network, not a 4thTech product: decentralized storage on BTFS, packaged as storage NFTs; the SDK's storage provider for encrypted mail content and attachments | Partner network | [Wiki](https://wiki.4thtech.io/developers/sdk/storage/pollination-x) · [pollinationx.io](https://pollinationx.io) |
-| **W3XShare** | File sharing built on 4thTech and PollinationX infrastructure | Live | [w3xshare.com](https://w3xshare.com) |
+| **W3XShare** | [W3XShare: file sharing built on 4thTech, with PollinationX storage](https://w3xshare.com) | Live | [w3xshare.com](https://w3xshare.com) |
 
 **Build your own on-chain chat, mail or file transfer on any EVM chain** with OCC v1, the SDK and the white-label UI:
 
