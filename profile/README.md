@@ -38,12 +38,13 @@ An EVM stack: it runs on any Ethereum Virtual Machine chain.
 | **White-label UIs (BlockMail & BlockChat)** | Ready-made mail and chat web apps, with attachments, that you can use, fork, brand and deploy | Production-ready, stable | [Wiki](https://wiki.4thtech.io/products/white-label) · [Repo](https://github.com/4thtech/white-label-client) |
 | **Encryptor** | A browser extension that holds a user's encryption key so web apps can encrypt end to end | Production-ready, stable | [Wiki](https://wiki.4thtech.io/products/encryptor) · [Repo](https://github.com/4thtech/encryptor-extension) |
 | **PollinationX** (partner network) | A partner storage network, not a 4thTech product: decentralized storage on BTFS, packaged as storage NFTs; the SDK's storage provider for encrypted mail content and attachments | Partner network | [Wiki](https://wiki.4thtech.io/developers/sdk/storage/pollination-x) · [pollinationx.io](https://pollinationx.io) |
+| **W3XShare** | File sharing built on 4thTech and PollinationX infrastructure | Live | [w3xshare.com](https://w3xshare.com) |
 
 **Build your own on-chain chat, mail or file transfer on any EVM chain** with OCC v1, the SDK and the white-label UI:
 
 1. Fork the white-label app and run it: [Fork, configure and run locally](https://wiki.4thtech.io/products/white-label/run-locally) → [Brand it](https://wiki.4thtech.io/products/white-label/branding) → [Build and deploy](https://wiki.4thtech.io/products/white-label/deploy).
 2. Or add mail and chat to your own app: [SDK quickstart](https://wiki.4thtech.io/developers/sdk/quickstart) and [Integration paths](https://wiki.4thtech.io/developers/integration-paths).
-3. Free for non-commercial use; for commercial use, [contact us](https://wiki.4thtech.io/resources/contact) (see [Licences](https://wiki.4thtech.io/resources/licences)). Contract addresses: [Deployments](https://wiki.4thtech.io/deployments/deployments) for contract addresses.
+3. Builders can use the SDK and the white-label apps to deploy their own apps and adapt them as they see fit. No licence needed. The OCC v1 smart contracts carry a non-commercial condition: for commercial use of the contracts, [contact us](https://wiki.4thtech.io/resources/contact) (see [Licences](https://wiki.4thtech.io/resources/licences)). Contract addresses: [Deployments](https://wiki.4thtech.io/deployments/deployments).
 
 ### Early stage: AgentLink, on OCC v2
 
